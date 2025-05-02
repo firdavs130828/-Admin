@@ -1,0 +1,38 @@
+.a{
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+.b{
+    background-color: green;
+}
+.r{
+    background-color: green;
+}
+  .g{
+    background-color: rgb(224, 211, 211);
+  }
+  .h{
+    width: 70%;
+    border: 1px solid red;
+    margin: 30px auto;
+    text-align: center;
+    border-collapse: collapse;
+
+  }
+  z,td{
+border: 1px solid red;
+  }
+  div{
+    background-color: rgb(204, 198, 198);
+  }
+.t{
+  width: 100%px;
+  height: 100%;
+
+}
+.p{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
